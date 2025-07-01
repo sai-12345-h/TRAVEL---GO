@@ -8,7 +8,7 @@ import uuid
 import random
 
 app = Flask(__name__)
-app.secret_key = 'raju123'
+app.secret_key = 'sai123'
 
 # AWS Setup using IAM Role
 REGION = 'us-east-1'  # Replace with your actual AWS region
